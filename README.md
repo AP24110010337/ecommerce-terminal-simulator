@@ -111,26 +111,4 @@ Follow these instructions to get a copy of the project up and running on your lo
 3.  **Explore Options**: Once logged in, use the numbered menus to navigate through the catalog, view your cart, or check your orders.
 4.  **Admin Access**: Log in with an admin account (created via `add_admin.py`) to automatically be routed to the Admin Dashboard.
 
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/AP24110010337/ecommerce-terminal-simulator/issues) if you want to contribute.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📝 License
-
-This project is open-source and available under the [MIT License](https://choosealicense.com/licenses/mit/).
-
----
-<div align="center">
-Made with ❤️ using Python
 </div>
