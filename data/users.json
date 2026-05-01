@@ -1,0 +1,54 @@
+[
+    {
+        "user_id": "USR0001",
+        "username": "admin",
+        "password_hash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+        "role": "admin",
+        "cart": {},
+        "wishlist": []
+    },
+    {
+        "user_id": "USR0002",
+        "username": "jon_snow",
+        "password_hash": "b3dfdbe120baef62e9b1c3fcbbc96c36cc910b90e2557a305e74bc3d1a75701d",
+        "role": "customer",
+        "cart": {},
+        "wishlist": []
+    },
+    {
+        "user_id": "USR0003",
+        "username": "here",
+        "password_hash": "00add960eed96a5718a823a82676ce0b08ff5d2715914fbe22e1024f064f7195",
+        "role": "customer",
+        "cart": {},
+        "wishlist": []
+    },
+    {
+        "user_id": "USR0004",
+        "username": "here2",
+        "password_hash": "945d0abeecfce7e6f489f5fb8ec3ff7071ccb2ed269540052e3183cf643c56c3",
+        "role": "customer",
+        "cart": {},
+        "wishlist": [
+            "PRD0039"
+        ]
+    },
+    {
+        "user_id": "USR0005",
+        "username": "here3",
+        "password_hash": "85616325c561e58523185f20f7116f7e14672495bbc176862c8ab17eb9355089",
+        "role": "customer",
+        "cart": {},
+        "wishlist": [
+            "PRD0030"
+        ]
+    },
+    {
+        "user_id": "USR0006",
+        "username": "here4",
+        "password_hash": "255a232e0ad604ece238ca46ef2749004a3ac5704ebb7a3b60a49428a7a44a79",
+        "role": "customer",
+        "cart": {},
+        "wishlist": []
+    }
+]

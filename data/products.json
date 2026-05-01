@@ -1,0 +1,502 @@
+[
+    {
+        "product_id": "PRD0001",
+        "name": "ReadRight T-Shirt Premium",
+        "category": "Clothing",
+        "price": 91.25,
+        "stock": 38,
+        "rating": 4.3,
+        "reviews_count": 345,
+        "description": "High quality ReadRight T-Shirt Premium from ReadRight. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0002",
+        "name": "StyleSync Python Crash Course Premium",
+        "category": "Books",
+        "price": 44.64,
+        "stock": 26,
+        "rating": 3.3,
+        "reviews_count": 71,
+        "description": "High quality StyleSync Python Crash Course Premium from StyleSync. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0003",
+        "name": "ReadRight T-Shirt Plus",
+        "category": "Clothing",
+        "price": 85.66,
+        "stock": 140,
+        "rating": 3.7,
+        "reviews_count": 49,
+        "description": "High quality ReadRight T-Shirt Plus from ReadRight. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0004",
+        "name": "ReadRight Shorts Ultra",
+        "category": "Clothing",
+        "price": 26.69,
+        "stock": 62,
+        "rating": 5.0,
+        "reviews_count": 402,
+        "description": "High quality ReadRight Shorts Ultra from ReadRight. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0005",
+        "name": "Alpha Python Crash Course Max",
+        "category": "Books",
+        "price": 23.91,
+        "stock": 103,
+        "rating": 2.9,
+        "reviews_count": 85,
+        "description": "High quality Alpha Python Crash Course Max from Alpha. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0006",
+        "name": "Omega Tablet Max",
+        "category": "Electronics",
+        "price": 285.67,
+        "stock": 92,
+        "rating": 4.6,
+        "reviews_count": 76,
+        "description": "High quality Omega Tablet Max from Omega. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0007",
+        "name": "TechCorp Sneakers Plus",
+        "category": "Clothing",
+        "price": 124.73,
+        "stock": 135,
+        "rating": 4.8,
+        "reviews_count": 299,
+        "description": "High quality TechCorp Sneakers Plus from TechCorp. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0008",
+        "name": "Omega Design Patterns Plus",
+        "category": "Books",
+        "price": 53.08,
+        "stock": 38,
+        "rating": 3.1,
+        "reviews_count": 221,
+        "description": "High quality Omega Design Patterns Plus from Omega. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0009",
+        "name": "StyleSync Wireless Earbuds Premium",
+        "category": "Electronics",
+        "price": 1540.52,
+        "stock": 3,
+        "rating": 3.5,
+        "reviews_count": 363,
+        "description": "High quality StyleSync Wireless Earbuds Premium from StyleSync. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0010",
+        "name": "Omega Design Patterns Premium",
+        "category": "Books",
+        "price": 51.69,
+        "stock": 36,
+        "rating": 2.7,
+        "reviews_count": 358,
+        "description": "High quality Omega Design Patterns Premium from Omega. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0011",
+        "name": "TechCorp Atomic Habits Pro",
+        "category": "Books",
+        "price": 30.64,
+        "stock": 7,
+        "rating": 4.2,
+        "reviews_count": 93,
+        "description": "High quality TechCorp Atomic Habits Pro from TechCorp. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0012",
+        "name": "GigaByte Design Patterns Lite",
+        "category": "Books",
+        "price": 32.92,
+        "stock": 39,
+        "rating": 3.7,
+        "reviews_count": 386,
+        "description": "High quality GigaByte Design Patterns Lite from GigaByte. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0013",
+        "name": "TechCorp Sweater Max",
+        "category": "Clothing",
+        "price": 63.5,
+        "stock": 131,
+        "rating": 4.2,
+        "reviews_count": 50,
+        "description": "High quality TechCorp Sweater Max from TechCorp. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0014",
+        "name": "Omega Hoodie Max",
+        "category": "Clothing",
+        "price": 86.92,
+        "stock": 1,
+        "rating": 2.6,
+        "reviews_count": 121,
+        "description": "High quality Omega Hoodie Max from Omega. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0015",
+        "name": "ReadRight T-Shirt Pro",
+        "category": "Clothing",
+        "price": 94.71,
+        "stock": 52,
+        "rating": 4.6,
+        "reviews_count": 472,
+        "description": "High quality ReadRight T-Shirt Pro from ReadRight. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0016",
+        "name": "StyleSync T-Shirt Plus",
+        "category": "Clothing",
+        "price": 105.91,
+        "stock": 127,
+        "rating": 4.7,
+        "reviews_count": 66,
+        "description": "High quality StyleSync T-Shirt Plus from StyleSync. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0017",
+        "name": "Omega Python Crash Course Ultra",
+        "category": "Books",
+        "price": 12.41,
+        "stock": 6,
+        "rating": 4.1,
+        "reviews_count": 84,
+        "description": "High quality Omega Python Crash Course Ultra from Omega. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0018",
+        "name": "Alpha Smartphone Premium",
+        "category": "Electronics",
+        "price": 308.66,
+        "stock": 146,
+        "rating": 3.1,
+        "reviews_count": 482,
+        "description": "High quality Alpha Smartphone Premium from Alpha. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0019",
+        "name": "Alpha Jeans Pro",
+        "category": "Clothing",
+        "price": 48.25,
+        "stock": 58,
+        "rating": 2.6,
+        "reviews_count": 128,
+        "description": "High quality Alpha Jeans Pro from Alpha. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0020",
+        "name": "ReadRight Monitor Plus",
+        "category": "Electronics",
+        "price": 1657.47,
+        "stock": 51,
+        "rating": 4.6,
+        "reviews_count": 31,
+        "description": "High quality ReadRight Monitor Plus from ReadRight. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0021",
+        "name": "ReadRight Hoodie Essential",
+        "category": "Clothing",
+        "price": 21.81,
+        "stock": 86,
+        "rating": 4.8,
+        "reviews_count": 20,
+        "description": "High quality ReadRight Hoodie Essential from ReadRight. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0022",
+        "name": "Alpha Jeans Plus",
+        "category": "Clothing",
+        "price": 113.42,
+        "stock": 26,
+        "rating": 3.8,
+        "reviews_count": 384,
+        "description": "High quality Alpha Jeans Plus from Alpha. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0023",
+        "name": "ReadRight Jeans Pro",
+        "category": "Clothing",
+        "price": 78.52,
+        "stock": 102,
+        "rating": 3.0,
+        "reviews_count": 218,
+        "description": "High quality ReadRight Jeans Pro from ReadRight. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0024",
+        "name": "GigaByte Jacket Pro",
+        "category": "Clothing",
+        "price": 137.03,
+        "stock": 42,
+        "rating": 3.2,
+        "reviews_count": 83,
+        "description": "High quality GigaByte Jacket Pro from GigaByte. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0025",
+        "name": "GigaByte Tablet Lite",
+        "category": "Electronics",
+        "price": 1911.08,
+        "stock": 10,
+        "rating": 3.2,
+        "reviews_count": 307,
+        "description": "High quality GigaByte Tablet Lite from GigaByte. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0026",
+        "name": "TechCorp Smartwatch Ultra",
+        "category": "Electronics",
+        "price": 1572.34,
+        "stock": 72,
+        "rating": 4.5,
+        "reviews_count": 93,
+        "description": "High quality TechCorp Smartwatch Ultra from TechCorp. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0027",
+        "name": "ReadRight Smartwatch Plus",
+        "category": "Electronics",
+        "price": 1116.11,
+        "stock": 118,
+        "rating": 3.5,
+        "reviews_count": 151,
+        "description": "High quality ReadRight Smartwatch Plus from ReadRight. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0028",
+        "name": "ReadRight Sneakers Essential",
+        "category": "Clothing",
+        "price": 90.9,
+        "stock": 65,
+        "rating": 3.6,
+        "reviews_count": 433,
+        "description": "High quality ReadRight Sneakers Essential from ReadRight. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0029",
+        "name": "Alpha Jeans Pro",
+        "category": "Clothing",
+        "price": 70.06,
+        "stock": 148,
+        "rating": 4.9,
+        "reviews_count": 200,
+        "description": "High quality Alpha Jeans Pro from Alpha. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0030",
+        "name": "Omega Atomic Habits Lite",
+        "category": "Books",
+        "price": 57.51,
+        "stock": 118,
+        "rating": 4.2,
+        "reviews_count": 25,
+        "description": "High quality Omega Atomic Habits Lite from Omega. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0031",
+        "name": "GigaByte Shorts Max",
+        "category": "Clothing",
+        "price": 49.54,
+        "stock": 130,
+        "rating": 3.8,
+        "reviews_count": 134,
+        "description": "High quality GigaByte Shorts Max from GigaByte. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0032",
+        "name": "ReadRight Keyboard Pro",
+        "category": "Electronics",
+        "price": 195.93,
+        "stock": 88,
+        "rating": 2.8,
+        "reviews_count": 28,
+        "description": "High quality ReadRight Keyboard Pro from ReadRight. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0033",
+        "name": "Omega Sweater Essential",
+        "category": "Clothing",
+        "price": 40.48,
+        "stock": 116,
+        "rating": 4.9,
+        "reviews_count": 145,
+        "description": "High quality Omega Sweater Essential from Omega. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0034",
+        "name": "StyleSync Dune Ultra",
+        "category": "Books",
+        "price": 39.35,
+        "stock": 57,
+        "rating": 3.3,
+        "reviews_count": 436,
+        "description": "High quality StyleSync Dune Ultra from StyleSync. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0035",
+        "name": "ReadRight Monitor Pro",
+        "category": "Electronics",
+        "price": 114.87,
+        "stock": 97,
+        "rating": 3.7,
+        "reviews_count": 413,
+        "description": "High quality ReadRight Monitor Pro from ReadRight. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0036",
+        "name": "Alpha The Pragmatic Programmer Essential",
+        "category": "Books",
+        "price": 46.06,
+        "stock": 48,
+        "rating": 3.7,
+        "reviews_count": 290,
+        "description": "High quality Alpha The Pragmatic Programmer Essential from Alpha. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0037",
+        "name": "GigaByte Sneakers Essential",
+        "category": "Clothing",
+        "price": 59.62,
+        "stock": 101,
+        "rating": 2.7,
+        "reviews_count": 459,
+        "description": "High quality GigaByte Sneakers Essential from GigaByte. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0038",
+        "name": "Alpha Jacket Max",
+        "category": "Clothing",
+        "price": 90.84,
+        "stock": 58,
+        "rating": 4.7,
+        "reviews_count": 64,
+        "description": "High quality Alpha Jacket Max from Alpha. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0039",
+        "name": "StyleSync Wireless Earbuds Ultra",
+        "category": "Electronics",
+        "price": 1860.12,
+        "stock": 5,
+        "rating": 4.0,
+        "reviews_count": 197,
+        "description": "High quality StyleSync Wireless Earbuds Ultra from StyleSync. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0040",
+        "name": "StyleSync T-Shirt Premium",
+        "category": "Clothing",
+        "price": 48.54,
+        "stock": 89,
+        "rating": 3.3,
+        "reviews_count": 316,
+        "description": "High quality StyleSync T-Shirt Premium from StyleSync. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0041",
+        "name": "StyleSync Mouse Lite",
+        "category": "Electronics",
+        "price": 1377.55,
+        "stock": 61,
+        "rating": 4.5,
+        "reviews_count": 137,
+        "description": "High quality StyleSync Mouse Lite from StyleSync. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0042",
+        "name": "StyleSync Sneakers Elite",
+        "category": "Clothing",
+        "price": 64.78,
+        "stock": 143,
+        "rating": 4.6,
+        "reviews_count": 72,
+        "description": "High quality StyleSync Sneakers Elite from StyleSync. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0043",
+        "name": "Alpha Smartphone Lite",
+        "category": "Electronics",
+        "price": 1328.92,
+        "stock": 138,
+        "rating": 3.3,
+        "reviews_count": 442,
+        "description": "High quality Alpha Smartphone Lite from Alpha. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0044",
+        "name": "Omega T-Shirt Plus",
+        "category": "Clothing",
+        "price": 18.34,
+        "stock": 69,
+        "rating": 4.3,
+        "reviews_count": 95,
+        "description": "High quality Omega T-Shirt Plus from Omega. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0045",
+        "name": "Omega Clean Code Ultra",
+        "category": "Books",
+        "price": 45.17,
+        "stock": 33,
+        "rating": 4.4,
+        "reviews_count": 238,
+        "description": "High quality Omega Clean Code Ultra from Omega. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0046",
+        "name": "Omega Shorts Elite",
+        "category": "Clothing",
+        "price": 20.7,
+        "stock": 42,
+        "rating": 2.8,
+        "reviews_count": 351,
+        "description": "High quality Omega Shorts Elite from Omega. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0047",
+        "name": "TechCorp Shorts Lite",
+        "category": "Clothing",
+        "price": 130.48,
+        "stock": 61,
+        "rating": 4.7,
+        "reviews_count": 90,
+        "description": "High quality TechCorp Shorts Lite from TechCorp. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0048",
+        "name": "Omega Keyboard Max",
+        "category": "Electronics",
+        "price": 476.8,
+        "stock": 94,
+        "rating": 3.0,
+        "reviews_count": 293,
+        "description": "High quality Omega Keyboard Max from Omega. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0049",
+        "name": "StyleSync The Pragmatic Programmer Ultra",
+        "category": "Books",
+        "price": 15.57,
+        "stock": 142,
+        "rating": 3.8,
+        "reviews_count": 264,
+        "description": "High quality StyleSync The Pragmatic Programmer Ultra from StyleSync. Perfect for your daily needs."
+    },
+    {
+        "product_id": "PRD0050",
+        "name": "GigaByte T-Shirt Ultra",
+        "category": "Clothing",
+        "price": 70.16,
+        "stock": 57,
+        "rating": 4.6,
+        "reviews_count": 276,
+        "description": "High quality GigaByte T-Shirt Ultra from GigaByte. Perfect for your daily needs."
+    }
+]

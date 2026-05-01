@@ -1,0 +1,167 @@
+[
+    {
+        "timestamp": "2026-03-29T12:02:53.153481",
+        "user_id": "USR0001",
+        "action": "Registered new account."
+    },
+    {
+        "timestamp": "2026-03-29T12:11:40.545582",
+        "user_id": "USR0001",
+        "action": "Logged in."
+    },
+    {
+        "timestamp": "2026-03-29T12:13:15.182645",
+        "user_id": "USR0002",
+        "action": "Registered new account."
+    },
+    {
+        "timestamp": "2026-03-29T12:18:16.754474",
+        "user_id": "USR0001",
+        "action": "Logged in."
+    },
+    {
+        "timestamp": "2026-03-30T15:29:48.229864",
+        "user_id": "USR0001",
+        "action": "Logged in."
+    },
+    {
+        "timestamp": "2026-03-30T15:30:36.400476",
+        "user_id": "USR0003",
+        "action": "Registered new account."
+    },
+    {
+        "timestamp": "2026-03-30T15:30:43.659902",
+        "user_id": "USR0003",
+        "action": "Logged in."
+    },
+    {
+        "timestamp": "2026-03-30T15:33:34.317547",
+        "user_id": "USR0003",
+        "action": "Placed order ORD0001 for \u20b96470.18"
+    },
+    {
+        "timestamp": "2026-03-30T15:36:33.172729",
+        "user_id": "USR0001",
+        "action": "Logged in."
+    },
+    {
+        "timestamp": "2026-04-04T17:59:08.620730",
+        "user_id": "USR0001",
+        "action": "Logged in."
+    },
+    {
+        "timestamp": "2026-04-04T17:59:58.752671",
+        "user_id": "USR0003",
+        "action": "Logged in."
+    },
+    {
+        "timestamp": "2026-04-04T18:04:57.746070",
+        "user_id": "USR0003",
+        "action": "Logged in."
+    },
+    {
+        "timestamp": "2026-04-04T18:09:27.312186",
+        "user_id": "USR0003",
+        "action": "Logged in."
+    },
+    {
+        "timestamp": "2026-04-04T18:15:21.639057",
+        "user_id": "USR0003",
+        "action": "Placed order ORD0002 for \u20b9226.89"
+    },
+    {
+        "timestamp": "2026-04-04T18:27:11.532244",
+        "user_id": "USR0001",
+        "action": "Logged in."
+    },
+    {
+        "timestamp": "2026-04-07T18:33:06.597707",
+        "user_id": "USR0003",
+        "action": "Logged in."
+    },
+    {
+        "timestamp": "2026-04-07T21:49:38.020164",
+        "user_id": "USR0004",
+        "action": "Registered new account."
+    },
+    {
+        "timestamp": "2026-04-07T21:50:25.288939",
+        "user_id": "USR0004",
+        "action": "Logged in."
+    },
+    {
+        "timestamp": "2026-04-07T21:56:07.972486",
+        "user_id": "USR0004",
+        "action": "Placed order ORD0003 for \u20b96853.62"
+    },
+    {
+        "timestamp": "2026-04-07T22:10:40.119606",
+        "user_id": "USR0004",
+        "action": "Logged in."
+    },
+    {
+        "timestamp": "2026-04-07T22:11:59.467013",
+        "user_id": "USR0004",
+        "action": "Placed order ORD0004 for \u20b9146.39"
+    },
+    {
+        "timestamp": "2026-04-07T22:12:52.926833",
+        "user_id": "USR0001",
+        "action": "Logged in."
+    },
+    {
+        "timestamp": "2026-04-07T22:20:29.872655",
+        "user_id": "USR0005",
+        "action": "Registered new account."
+    },
+    {
+        "timestamp": "2026-04-07T22:20:41.362656",
+        "user_id": "USR0005",
+        "action": "Logged in."
+    },
+    {
+        "timestamp": "2026-04-07T22:22:20.307259",
+        "user_id": "USR0005",
+        "action": "Placed order ORD0005 for \u20b9188.73"
+    },
+    {
+        "timestamp": "2026-04-07T22:24:08.347215",
+        "user_id": "USR0001",
+        "action": "Logged in."
+    },
+    {
+        "timestamp": "2026-04-07T22:53:50.325572",
+        "user_id": "USR0005",
+        "action": "Logged in."
+    },
+    {
+        "timestamp": "2026-04-07T23:24:24.127545",
+        "user_id": "USR0006",
+        "action": "Registered new account."
+    },
+    {
+        "timestamp": "2026-04-07T23:24:58.054432",
+        "user_id": "USR0006",
+        "action": "Logged in."
+    },
+    {
+        "timestamp": "2026-04-07T23:29:21.956147",
+        "user_id": "USR0006",
+        "action": "Placed order ORD0006 for \u20b92482.96"
+    },
+    {
+        "timestamp": "2026-04-07T23:31:17.717781",
+        "user_id": "USR0001",
+        "action": "Logged in."
+    },
+    {
+        "timestamp": "2026-04-13T16:05:35.382452",
+        "user_id": "USR0004",
+        "action": "Logged in."
+    },
+    {
+        "timestamp": "2026-04-13T16:06:41.881461",
+        "user_id": "USR0004",
+        "action": "Placed order ORD0007 for \u20b9948.78"
+    }
+]

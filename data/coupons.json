@@ -1,0 +1,20 @@
+{
+    "WELCOME10": {
+        "type": "percent",
+        "value": 10,
+        "min_order": 0,
+        "limit": 100
+    },
+    "FLAT50": {
+        "type": "flat",
+        "value": 50,
+        "min_order": 100,
+        "limit": 44
+    },
+    "SAVE20": {
+        "type": "percent",
+        "value": 20,
+        "min_order": 500,
+        "limit": 20
+    }
+}

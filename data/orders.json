@@ -1,0 +1,153 @@
+[
+    {
+        "order_id": "ORD0001",
+        "user_id": "USR0003",
+        "items": [
+            {
+                "product_id": "PRD0009",
+                "name": "StyleSync Wireless Earbuds Premium",
+                "quantity": 4,
+                "price": 1540.52
+            }
+        ],
+        "subtotal": 6162.08,
+        "discount": 0.0,
+        "tax": 308.1,
+        "total": 6470.18,
+        "payment_method": "UPI",
+        "status": "Placed",
+        "timestamp": "2026-03-30T15:33:34.301356"
+    },
+    {
+        "order_id": "ORD0002",
+        "user_id": "USR0003",
+        "items": [
+            {
+                "product_id": "PRD0032",
+                "name": "ReadRight Keyboard Pro",
+                "quantity": 1,
+                "price": 195.93
+            },
+            {
+                "product_id": "PRD0050",
+                "name": "GigaByte T-Shirt Ultra",
+                "quantity": 1,
+                "price": 70.16
+            }
+        ],
+        "subtotal": 266.09,
+        "discount": 50.0,
+        "tax": 10.8,
+        "total": 226.89,
+        "payment_method": "UPI",
+        "status": "Placed",
+        "timestamp": "2026-04-04T18:15:21.638333"
+    },
+    {
+        "order_id": "ORD0003",
+        "user_id": "USR0004",
+        "items": [
+            {
+                "product_id": "PRD0041",
+                "name": "StyleSync Mouse Lite",
+                "quantity": 2,
+                "price": 1377.55
+            },
+            {
+                "product_id": "PRD0025",
+                "name": "GigaByte Tablet Lite",
+                "quantity": 2,
+                "price": 1911.08
+            }
+        ],
+        "subtotal": 6577.26,
+        "discount": 50.0,
+        "tax": 326.36,
+        "total": 6853.62,
+        "payment_method": "COD",
+        "status": "Placed",
+        "timestamp": "2026-04-07T21:56:07.971908"
+    },
+    {
+        "order_id": "ORD0004",
+        "user_id": "USR0004",
+        "items": [
+            {
+                "product_id": "PRD0015",
+                "name": "ReadRight T-Shirt Pro",
+                "quantity": 2,
+                "price": 94.71
+            }
+        ],
+        "subtotal": 189.42,
+        "discount": 50.0,
+        "tax": 6.97,
+        "total": 146.39,
+        "payment_method": "COD",
+        "status": "Placed",
+        "timestamp": "2026-04-07T22:11:59.449704"
+    },
+    {
+        "order_id": "ORD0005",
+        "user_id": "USR0005",
+        "items": [
+            {
+                "product_id": "PRD0035",
+                "name": "ReadRight Monitor Pro",
+                "quantity": 2,
+                "price": 114.87
+            }
+        ],
+        "subtotal": 229.74,
+        "discount": 50.0,
+        "tax": 8.99,
+        "total": 188.73,
+        "payment_method": "COD",
+        "status": "Placed",
+        "timestamp": "2026-04-07T22:22:20.289187"
+    },
+    {
+        "order_id": "ORD0006",
+        "user_id": "USR0006",
+        "items": [
+            {
+                "product_id": "PRD0027",
+                "name": "ReadRight Smartwatch Plus",
+                "quantity": 2,
+                "price": 1116.11
+            },
+            {
+                "product_id": "PRD0001",
+                "name": "ReadRight T-Shirt Premium",
+                "quantity": 2,
+                "price": 91.25
+            }
+        ],
+        "subtotal": 2414.72,
+        "discount": 50.0,
+        "tax": 118.24,
+        "total": 2482.96,
+        "payment_method": "UPI",
+        "status": "Placed",
+        "timestamp": "2026-04-07T23:29:21.940742"
+    },
+    {
+        "order_id": "ORD0007",
+        "user_id": "USR0004",
+        "items": [
+            {
+                "product_id": "PRD0048",
+                "name": "Omega Keyboard Max",
+                "quantity": 2,
+                "price": 476.8
+            }
+        ],
+        "subtotal": 953.6,
+        "discount": 50.0,
+        "tax": 45.18,
+        "total": 948.78,
+        "payment_method": "UPI",
+        "status": "Placed",
+        "timestamp": "2026-04-13T16:06:41.858249"
+    }
+]
